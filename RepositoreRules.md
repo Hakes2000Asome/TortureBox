@@ -6,6 +6,13 @@
 - Financiing is the responsibilty of GL
 - All major decisions decided by simple majority with GLs have 1 vote and president/vice president having 2
 
+# Design Requirmeents:
+- all boxes fit comfortable in 8 x 24 ft
+- No shocking, eplisey warnings
+- built to last - no more cardboard boxes and hot glue
+- Puzzles must have no prior specific knowldege
+- boxes must fit a Ricky at minimum
+
 # CAD:
 - STEP files will be used for all cad files
 - use good CAD principles
