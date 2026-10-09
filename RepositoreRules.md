@@ -1,3 +1,6 @@
+# GOAL OF PROJECT
+To teach youth about how to build simple mechatronic projects that are relatively cheap, but fun and easy to show off. 
+
 # Overarching Rules:
 - Everything will get documented!!! HOW? - IDK YET
 - All documents written in english
@@ -11,16 +14,21 @@
 - No shocking, eplisey warnings
 - built to last - no more cardboard boxes and hot glue
 - Puzzles must have no prior specific knowldege
-- boxes must fit a Ricky at minimum
+- boxes must fit a Ricky (6ft tall, 1 foot wide, 8 in thick) at minimum
 
 # CAD:
-- STEP files will be used for all cad files
+- FUSION 360 will be used for everything
 - use good CAD principles
 - FULLY CONSTRAINED !!!!
 - One body per part file. USE ASEMBLIES
 
 # CODE:
-- Full Variable names - very little shorthand
+- Full Variable names - very little shorthand/acronyms
 - FULL COMMENTS
 - All files saved in CPP, no INO files 
-  - If you don't know how to upload to arduinos without arudino IDE - (https://dev.to/udara_dananjaya/how-to-set-up-arduino-development-with-vscode-and-arduino-cli-3382)
+
+# Repository:
+- Use issues for every new feature
+- Optional use of projects to make a gant chart
+- Planning documents saved in repository as .md files
+- All issues lead to new branch leading to new pull requet
